@@ -1,4 +1,4 @@
 - Hello, I am @kecenr. If you don't know how to pronounce that you can just call me Kit.
-- I’m interested in Java game development.
-- I'm currently learning Java.
+- I’m interested in game development.
+- I'm currently learning to work with the Pygame module in Python, along with Python itself
 - My blog is thisiskitsblog.blogspot.com
